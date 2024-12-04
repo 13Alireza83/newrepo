@@ -1,0 +1,12 @@
+.wrapper{
+    background-color: chocolate;
+    border-radius: 15px;
+    margin: 25px auto;
+    h2{
+        font-size: larger;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        color: blanchedalmond;
+        text-align: center;
+    }
+}
